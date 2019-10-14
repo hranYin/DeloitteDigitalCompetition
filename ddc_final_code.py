@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 18 18:37:14 2019
 
-@author: dell
+@author: yin
 """
 ####一，导入相应的包
 import pandas as pd
